@@ -1,0 +1,1874 @@
+{
+  "intents": [
+    {
+      "intent": "Thanks",
+      "examples": [
+        {
+          "text": "thanks"
+        },
+        {
+          "text": "thank you"
+        },
+        {
+          "text": "much appreciated"
+        },
+        {
+          "text": "many thanks"
+        },
+        {
+          "text": "that's nice of you"
+        },
+        {
+          "text": "thx"
+        },
+        {
+          "text": "thank you very much"
+        },
+        {
+          "text": "i appreciate it"
+        }
+      ]
+    },
+    {
+      "intent": "department",
+      "examples": [
+        {
+          "text": "cs"
+        },
+        {
+          "text": "Is"
+        },
+        {
+          "text": "my dept is cs"
+        },
+        {
+          "text": "Is dept"
+        },
+        {
+          "text": "Computer Science"
+        },
+        {
+          "text": "Information science"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "First1year",
+      "examples": [
+        {
+          "text": "Information technology"
+        },
+        {
+          "text": "Introduction for Computer Science"
+        },
+        {
+          "text": "Physics"
+        },
+        {
+          "text": "English"
+        },
+        {
+          "text": "programming for beginners"
+        },
+        {
+          "text": "object oriented programming"
+        },
+        {
+          "text": "oop"
+        },
+        {
+          "text": "Probability theory"
+        },
+        {
+          "text": "Discrete mathematics"
+        },
+        {
+          "text": "Probability distribution"
+        },
+        {
+          "text": "human Rights"
+        },
+        {
+          "text": "Calculus"
+        },
+        {
+          "text": "Information System"
+        },
+        {
+          "text": "hr"
+        }
+      ],
+      "description": "for 1st year"
+    },
+    {
+      "intent": "term",
+      "examples": [
+        {
+          "text": "second"
+        },
+        {
+          "text": "2"
+        },
+        {
+          "text": "first"
+        },
+        {
+          "text": "1"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Goodbye",
+      "examples": [
+        {
+          "text": "so long"
+        },
+        {
+          "text": "ciao"
+        },
+        {
+          "text": "bye"
+        },
+        {
+          "text": "see ya"
+        },
+        {
+          "text": "arrivederci"
+        },
+        {
+          "text": "good bye"
+        }
+      ]
+    },
+    {
+      "intent": "affirmative-responses",
+      "examples": [
+        {
+          "text": "Ok"
+        },
+        {
+          "text": "yep"
+        },
+        {
+          "text": "you are right"
+        },
+        {
+          "text": "yes"
+        },
+        {
+          "text": "exactly"
+        },
+        {
+          "text": "right"
+        },
+        {
+          "text": "correct"
+        },
+        {
+          "text": "yea"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "subject2",
+      "examples": [
+        {
+          "text": "Data structure"
+        },
+        {
+          "text": "database"
+        },
+        {
+          "text": "Data base"
+        },
+        {
+          "text": "architecture"
+        },
+        {
+          "text": "Communication"
+        },
+        {
+          "text": "Operating Systems 1"
+        },
+        {
+          "text": "linear algebra"
+        },
+        {
+          "text": "web programming"
+        },
+        {
+          "text": "Graphics"
+        },
+        {
+          "text": "web design"
+        },
+        {
+          "text": "probability and statistics"
+        },
+        {
+          "text": "probability 2"
+        },
+        {
+          "text": "Operating Systems one"
+        },
+        {
+          "text": "ethics"
+        },
+        {
+          "text": "Electronics"
+        }
+      ],
+      "description": "for 2st year"
+    },
+    {
+      "intent": "Cancel",
+      "examples": [
+        {
+          "text": "never mind"
+        },
+        {
+          "text": "nevermind"
+        },
+        {
+          "text": "cancel that"
+        },
+        {
+          "text": "i changed my mind"
+        },
+        {
+          "text": "cancel the request"
+        },
+        {
+          "text": "i don't want a table anymore anymore"
+        },
+        {
+          "text": "forget it"
+        }
+      ]
+    },
+    {
+      "intent": "Help",
+      "examples": [
+        {
+          "text": "help"
+        },
+        {
+          "text": "i need assistance"
+        },
+        {
+          "text": "what can i do"
+        },
+        {
+          "text": "help me"
+        },
+        {
+          "text": "help me decide"
+        },
+        {
+          "text": "can you assist me"
+        },
+        {
+          "text": "can you help"
+        },
+        {
+          "text": "what can i say"
+        }
+      ]
+    },
+    {
+      "intent": "Study",
+      "examples": [
+        {
+          "text": "study"
+        },
+        {
+          "text": "sections"
+        },
+        {
+          "text": "where is matrile"
+        },
+        {
+          "text": "I want lecture"
+        },
+        {
+          "text": "lecture"
+        },
+        {
+          "text": "lec"
+        },
+        {
+          "text": "i want study third year second term cs department"
+        },
+        {
+          "text": "search for information"
+        },
+        {
+          "text": "i need subjcets"
+        },
+        {
+          "text": "i want study"
+        },
+        {
+          "text": "what is your subject"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "subject3",
+      "examples": [
+        {
+          "text": "design algorithm"
+        },
+        {
+          "text": "ai"
+        },
+        {
+          "text": "assembly"
+        },
+        {
+          "text": "Computer Networks"
+        },
+        {
+          "text": "Logic Programming"
+        },
+        {
+          "text": "Software Engineering"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "You there"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "hiya"
+        },
+        {
+          "text": "yo"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "hi"
+        }
+      ]
+    },
+    {
+      "intent": "grade",
+      "examples": [
+        {
+          "text": "three"
+        },
+        {
+          "text": "first grade"
+        },
+        {
+          "text": "second grade"
+        },
+        {
+          "text": "third grade"
+        },
+        {
+          "text": "fourth grade"
+        },
+        {
+          "text": "fourth"
+        },
+        {
+          "text": "third"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "CS_Subject",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "logic",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "algorithm",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "design",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "network",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "assembly",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "depts",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "IS",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "IT",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "CS",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "information science",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Computer Science",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Information technology",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-time",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "IS_Subject",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "First1year",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "technology",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Calculus",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "English",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "human Rights",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Information System",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Introduction for Computer Science",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "object oriented programming",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "oop",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Physics",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Probability distribution",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Probability theory",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "programming for beginners",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "year",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-date",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "term",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "2",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "second",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "1",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "first",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "second_year",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "probability",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "architecture",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Operating Systems 1",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Graphics",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "linear algebra",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "ethics",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Electronics",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "web design",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Data structure",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Data base",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Communication",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-percentage",
+      "values": [],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "webhooks": [
+    {
+      "url": "https://drive.google.com/open?id=1n8gvCRN4L4mDoUUKVFB3Xjs7dzcw0Vd3&fbclid=IwAR0OWJfMSqAMYmEkApYs_C6k5Ldeph0QQuX7Xpyx1DuKOQyK6EKULFLTKtw",
+      "name": "main_webhook",
+      "headers": [
+        {
+          "name": "Drive",
+          "value": "https://drive.google.com/open?id=1n8gvCRN4L4mDoUUKVFB3Xjs7dzcw0Vd3&fbclid=IwAR0OWJfMSqAMYmEkApYs_C6k5Ldeph0QQuX7Xpyx1DuKOQyK6EKULFLTKtw"
+        }
+      ]
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "tell my term ?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_6_1585665514024",
+      "event_name": "focus",
+      "dialog_node": "handler_9_1585665514034",
+      "previous_sibling": "handler_3_1585665514034"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_6_1585665514024",
+      "context": {
+        "term": "@term"
+      },
+      "conditions": "@term",
+      "event_name": "input",
+      "dialog_node": "handler_3_1585665514034"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "sorry , This dept is still under development ,Try something else"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1584085737711",
+      "conditions": "@depts:IT",
+      "dialog_node": "response_2_1584085751922",
+      "previous_sibling": "response_8_1584085930660"
+    },
+    {
+      "type": "standard",
+      "title": "Term 2",
+      "output": {},
+      "parent": "node_8_1584085737711",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@term:second || @term:2",
+      "dialog_node": "node_4_1584129369073",
+      "previous_sibling": "node_5_1584090889497"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Got it please tell my your term ?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_8_1584085737711",
+      "conditions": "@depts:CS || #affirmative-responses",
+      "dialog_node": "response_8_1584085930660",
+      "previous_sibling": "node_4_1584129369073"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "under devlopment"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_8_1584085737711",
+      "conditions": "@depts:IS",
+      "dialog_node": "response_2_1584089865378",
+      "previous_sibling": "response_2_1584085751922"
+    },
+    {
+      "type": "standard",
+      "title": "Term",
+      "parent": "node_8_1584085737711",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@term:first || @term:1",
+      "dialog_node": "node_5_1584090889497"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "nice to meet you "
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_10_1584033527503",
+      "dialog_node": "response_1_1584226472502",
+      "previous_sibling": "response_3_1584128731691"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello. Good evening"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_10_1584033527503",
+      "conditions": "now().after('17:00:00')",
+      "dialog_node": "response_5_1584128694978",
+      "previous_sibling": "response_10_1584128662730"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello. Good afternoon"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_10_1584033527503",
+      "conditions": "now().after('12:00:00') && now().before('16:59:59')",
+      "dialog_node": "response_10_1584128662730",
+      "previous_sibling": "response_7_1584128615705"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello "
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_10_1584033527503",
+      "dialog_node": "response_3_1584128731691",
+      "previous_sibling": "response_5_1584128694978"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello. Good morningu"
+              },
+              {
+                "text": "Hi there"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_10_1584033527503",
+      "context": {},
+      "conditions": "now().after('04:00:00') && now().before('11:59:59')",
+      "dialog_node": "response_7_1584128615705"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1584090889497",
+      "dialog_node": "response_5_1585664109952",
+      "previous_sibling": "response_9_1584090999293"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "YOUR SUBJECTS ",
+            "options": [
+              {
+                "label": "Assembly ",
+                "value": {
+                  "input": {
+                    "text": "https://drive.google.com/drive/folders/1mTVlTvzmJ28oYa61_gt1iXCHrBsmgDNv?fbclid=IwAR1IcElGUVEOH05aDXtGRJKbbHEJ7zvi5yRBaWIf7QI8ohTgDHiIz1lq7VY&usp=drive_open"
+                  }
+                }
+              },
+              {
+                "label": "logic programming",
+                "value": {
+                  "input": {
+                    "text": "https://drive.google.com/drive/folders/1JfPHMpxhci2PAN1HIn3Vbr_M0cHJ6pt0?fbclid=IwAR3s1-oNGqkISlogJpJV2dNJjEt4fuXdJxFqfMUb00wyQ5GYf5wzgLWfjZE"
+                  }
+                }
+              },
+              {
+                "label": "design algorithm",
+                "value": {
+                  "input": {
+                    "text": "https://drive.google.com/drive/folders/1n-Dy9JQTG7NdavT06jd4C0lbXD-45T3H?fbclid=IwAR1vkqk26RdTiAkQjz0WZVyg67GDKf_-ejGTDSnj8XpCYt78Dbh1Kltf0L8"
+                  }
+                }
+              },
+              {
+                "label": "network",
+                "value": {
+                  "input": {
+                    "text": "https://drive.google.com/drive/folders/18FIGd3_zPXzLlZOrC22dF126CjEKDyIj?fbclid=IwAR3abQeaBcjCMqpTeSZm0VqjaDDZ_0qmiru51nQqqwHejYyJ08ofsjFFNxY"
+                  }
+                }
+              },
+              {
+                "label": "software engineering 0",
+                "value": {
+                  "input": {
+                    "text": "https://drive.google.com/drive/folders/11ciG_TiEyJ-6KJOOExRbEHA92YtKj5R9?fbclid=IwAR2PrYwANbXsHTRA9xWTF3GCzwPsonlnyRxZ16fuV31bZGP4NfA23GuM6UA"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_5_1584090889497",
+      "conditions": "@term",
+      "dialog_node": "response_9_1584090999293"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "No"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1584126463081",
+      "conditions": "anything_else",
+      "dialog_node": "response_2_1584126476307",
+      "previous_sibling": "response_7_1584126474462"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Subject"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1584126463081",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_7_1584091939388"
+      },
+      "conditions": "$webhook_result_1",
+      "dialog_node": "response_7_1584126474462"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "YOUR SUBJECTS ",
+            "options": [
+              {
+                "label": "Artificial intelligence",
+                "value": {
+                  "input": {
+                    "text": "https://drive.google.com/drive/folders/19ZpLXPMhveMKlOPeL9fV-MDZSaztZIiS?fbclid=IwAR0vIe029qadKbp8bXc_gnGidm0K5ohiQuxyC24Vtn2Gmvndswxef9VaXZE"
+                  }
+                }
+              },
+              {
+                "label": "OS",
+                "value": {
+                  "input": {
+                    "text": "https://drive.google.com/drive/folders/1l70qbRxde88f_8nOXG4dL_sSXVA4IHqJ?fbclid=IwAR1j07uj7DmdXpz4pb9kxLmuFyO62HRA1pizBbP3JcE15tFEyBLZhX7a_Oo"
+                  }
+                }
+              },
+              {
+                "label": "Software Engineering",
+                "value": {
+                  "input": {
+                    "text": "https://drive.google.com/drive/folders/1RiOQTMgqw8pxS0jCxcP12d4MGm9tm5S0?fbclid=IwAR0QzWCtxp4tB3dx2ijlR3WYCcg11tBGolLG8hsKyZuJHltxUMWrEmBcJdY"
+                  }
+                }
+              },
+              {
+                "label": "Digital signal processing",
+                "value": {
+                  "input": {
+                    "text": "https://onedrive.live.com/?authkey=%21AJqscYmgd4S22FY&id=B8D34EF59F491ECB%21114&cid=B8D34EF59F491ECB"
+                  }
+                }
+              },
+              {
+                "label": "Computer languages ​​design",
+                "value": {
+                  "input": {
+                    "text": "https://drive.google.com/drive/folders/1LBI93g04ldKzCGPULaVtzxLL39C3p7ab?fbclid=IwAR2py9rQhisUsTs8lN02HRTuvIZRsiwMDhB33mMtxYkkAIjFcNfLVhQejvk"
+                  }
+                }
+              }
+            ],
+            "description": "",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_4_1584129369073",
+      "conditions": "@term",
+      "dialog_node": "response_5_1584129369088"
+    },
+    {
+      "type": "standard",
+      "title": "affirmative response",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "tell me your term please ?"
+              },
+              {
+                "text": "you are first or second term ? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1584265165067",
+      "conditions": "#affirmative-responses",
+      "dialog_node": "node_2_1584265269542"
+    },
+    {
+      "type": "standard",
+      "title": "affirmative response",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tell my your term ?"
+              },
+              {
+                "text": "you ask for  first or second term  ?"
+              },
+              {
+                "text": "do you mean first or second term ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_7_1585229055528",
+      "conditions": "#affirmative-responses",
+      "dialog_node": "node_5_1585229364126"
+    },
+    {
+      "type": "standard",
+      "title": "Affirmative-response D",
+      "output": {
+        "generic": [
+          {
+            "title": "Thrid Year ",
+            "options": [
+              {
+                "label": "CS",
+                "value": {
+                  "input": {
+                    "text": "Computer Science"
+                  }
+                }
+              },
+              {
+                "label": "IT",
+                "value": {
+                  "input": {
+                    "text": "Information Technology"
+                  }
+                }
+              },
+              {
+                "label": "IS",
+                "value": {
+                  "input": {
+                    "text": "Information Systems"
+                  }
+                }
+              }
+            ],
+            "description": "Faculty of Computer&Information Systems",
+            "response_type": "option"
+          },
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1584085160718",
+      "conditions": "#affirmative-responses",
+      "dialog_node": "node_7_1584085294601"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "what is Your academic year ? "
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_4_1585665029149",
+      "event_name": "focus",
+      "dialog_node": "handler_8_1585665029191",
+      "previous_sibling": "handler_10_1585665029191"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_4_1585665029149",
+      "context": {
+        "grade": "#grade"
+      },
+      "conditions": "#grade",
+      "event_name": "input",
+      "dialog_node": "handler_10_1585665029191"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "what is Your Department ? "
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_4_1585666494564",
+      "event_name": "focus",
+      "dialog_node": "handler_7_1585666494572",
+      "previous_sibling": "handler_5_1585666494572"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_4_1585666494564",
+      "context": {
+        "depts": "@depts"
+      },
+      "conditions": "@depts",
+      "event_name": "input",
+      "dialog_node": "handler_5_1585666494572"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "your subjects are ",
+            "options": [
+              {
+                "label": "Data Structure",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Linear Algebra",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "architecture",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Web programming ",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "operating system 1 ",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_10_1584265421861",
+      "conditions": "@term",
+      "dialog_node": "response_5_1584265443737"
+    },
+    {
+      "type": "slot",
+      "parent": "node_10_1585231259695",
+      "variable": "$depts",
+      "dialog_node": "slot_4_1585666494564",
+      "previous_sibling": "slot_6_1585665514024"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_10_1585231259695",
+      "disabled": true,
+      "conditions": "anything_else",
+      "dialog_node": "response_9_1585664604555",
+      "previous_sibling": "response_9_1585664603826"
+    },
+    {
+      "type": "slot",
+      "parent": "node_10_1585231259695",
+      "variable": "$grade",
+      "dialog_node": "slot_4_1585665029149",
+      "previous_sibling": "handler_1_1585665028518"
+    },
+    {
+      "type": "slot",
+      "parent": "node_10_1585231259695",
+      "variable": "$term",
+      "dialog_node": "slot_6_1585665514024",
+      "previous_sibling": "slot_4_1585665029149"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              },
+              {
+                "text": "it's time for studying"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_10_1585231259695",
+      "disabled": true,
+      "dialog_node": "response_9_1585664602423",
+      "previous_sibling": "slot_4_1585666494564"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_10_1585231259695",
+      "disabled": true,
+      "conditions": "$webhook_result_2",
+      "dialog_node": "response_9_1585664603826",
+      "previous_sibling": "response_9_1585664602423"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I need more info for helping you , tell my your grade !"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1585231259695",
+      "event_name": "focus",
+      "dialog_node": "handler_1_1585665028518"
+    },
+    {
+      "type": "standard",
+      "title": "dept",
+      "parent": "node_7_1584085294601",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@depts",
+      "dialog_node": "node_8_1584085737711"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "your subjects are",
+            "options": [
+              {
+                "label": "computer graphics ",
+                "value": {
+                  "input": {
+                    "text": "https://drive.google.com/drive/u/0/folders/1e0hQZr8b-6kZYj5qTnLhHGvnbvxVKvcP"
+                  }
+                }
+              },
+              {
+                "label": "Electronics",
+                "value": {
+                  "input": {
+                    "text": "https://drive.google.com/drive/u/0/folders/1q3aSiT4VhhMULs3i445l0U7tqP4cQRsp"
+                  }
+                }
+              },
+              {
+                "label": "ethics",
+                "value": {
+                  "input": {
+                    "text": "https://drive.google.com/drive/u/0/folders/1nbW7sKPpRE1wkWE8azIrmWf1IzNhXuDg"
+                  }
+                }
+              },
+              {
+                "label": "Data base",
+                "value": {
+                  "input": {
+                    "text": "https://drive.google.com/drive/u/0/folders/1VmGY_lj81B5woUQkqpTPAsRQsJ-TgQkf"
+                  }
+                }
+              },
+              {
+                "label": "probability and statistics",
+                "value": {
+                  "input": {
+                    "text": "https://drive.google.com/drive/u/0/folders/1mZjXq7mYPPjYUYgOAX9-EiDFBgjypM4m"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_8_1584265817692",
+      "conditions": "@term",
+      "dialog_node": "response_9_1584265865467"
+    },
+    {
+      "type": "standard",
+      "title": "Term 2",
+      "parent": "node_2_1584265269542",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@term:second || @term:2",
+      "dialog_node": "node_8_1584265817692",
+      "previous_sibling": "node_10_1584265421861"
+    },
+    {
+      "type": "standard",
+      "title": "Term ",
+      "parent": "node_2_1584265269542",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@term:first || @term:1",
+      "dialog_node": "node_10_1584265421861"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "your subject is ",
+            "options": [
+              {
+                "label": "sub 1",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "sub 2!",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              }
+            ],
+            "description": "select ",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_1_1585230481719",
+      "conditions": "@term",
+      "dialog_node": "response_10_1585230512583"
+    },
+    {
+      "type": "standard",
+      "title": "term2",
+      "parent": "node_5_1585229364126",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@term:2 || @term:second",
+      "dialog_node": "node_1_1585230481719",
+      "previous_sibling": "node_2_1585229614698"
+    },
+    {
+      "type": "standard",
+      "title": "term1",
+      "parent": "node_5_1585229364126",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@term:1 || @term:first",
+      "dialog_node": "node_2_1585229614698"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1585229614698",
+      "dialog_node": "response_6_1585231061521",
+      "previous_sibling": "response_10_1585229640861"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "your subject are ",
+            "options": [
+              {
+                "label": "sub 1",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "sub 2",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              }
+            ],
+            "description": "select ",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1585229614698",
+      "conditions": "@term",
+      "dialog_node": "response_10_1585229640861"
+    },
+    {
+      "type": "standard",
+      "title": "thanks",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You're welcome. Just let me know if you need anything else"
+              },
+              {
+                "text": "No problem. Just let me know if you need anything else"
+              },
+              {
+                "text": "My pleasure. Just let me know if you need anything else"
+              },
+              {
+                "text": "You’re welcome"
+              },
+              {
+                "text": "Glad to help"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Thanks",
+      "dialog_node": "node_7_1584091939388",
+      "previous_sibling": "node_4_1584085083880"
+    },
+    {
+      "type": "frame",
+      "title": "Studyoption",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "OK now I know your grade $grade , department  $depts and term $term "
+              },
+              {
+                "text": "it's time for studying   grade $grade , department  $depts and term $term "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "metadata": {
+        "callout": {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "": ""
+          },
+          "result_variable": "webhook_result_2"
+        },
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#Study",
+      "dialog_node": "node_10_1585231259695",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "First1year",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "got it , you are in first year ? "
+              },
+              {
+                "text": "hello new engineer , is it first academic year ? "
+              },
+              {
+                "text": "happy to see new beginner student , you are first year,isn't  it ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#First1year",
+      "dialog_node": "node_7_1585229055528",
+      "previous_sibling": "node_10_1584033527503"
+    },
+    {
+      "type": "standard",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#General_Greetings",
+      "dialog_node": "node_10_1584033527503",
+      "previous_sibling": "node_1_1584126463081"
+    },
+    {
+      "type": "standard",
+      "title": "Third_year",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "It looks like you are studying in Third year  correct ?"
+              },
+              {
+                "text": "got it , you are studying in third year isn't it ? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#subject3",
+      "dialog_node": "node_1_1584085160718",
+      "previous_sibling": "node_8_1584265165067"
+    },
+    {
+      "type": "standard",
+      "title": "What can I do",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I can tell you get your subjects easily \n"
+              },
+              {
+                "text": "help you know your subjects and duties \n"
+              },
+              {
+                "text": "tell my subject do you want , I will bring it for you "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#Help",
+      "dialog_node": "node_4_1584092066062",
+      "previous_sibling": "node_7_1584091939388"
+    },
+    {
+      "type": "standard",
+      "title": "Second_year",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Got it , are you in second year ? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#subject2",
+      "dialog_node": "node_8_1584265165067",
+      "previous_sibling": "node_7_1585229055528"
+    },
+    {
+      "type": "standard",
+      "title": "Goodbye",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Take care"
+              },
+              {
+                "text": "Ok , see you  later"
+              },
+              {
+                "text": "good day to you "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Goodbye",
+      "dialog_node": "node_4_1584085083880",
+      "previous_sibling": "node_1_1584085160718"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_4_1584092066062",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Options",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "Subject": "Assambly"
+          },
+          "result_variable": "webhook_result_1"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@CS_Subject:design",
+      "dialog_node": "node_1_1584126463081",
+      "previous_sibling": "node_10_1585231259695"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome to Student Assistant",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello, we can help you get lectures and sections easily "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Student Assistant",
+  "language": "en",
+  "description": ""
+}
