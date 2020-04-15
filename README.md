@@ -15,7 +15,7 @@ Writtern by
  students of third year computer and information science colleage Computer Science department Mansoura university 
  
  Ahmed Mostafa Ibrahim ,
- Ahmed Mohamed Elmahgoub
+ Ahmed Mohamed Mostafa Elmahgoub
  
  under the supervision 
  
